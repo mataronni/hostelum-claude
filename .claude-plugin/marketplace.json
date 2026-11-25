@@ -1,0 +1,14 @@
+{
+  "name": "hostelum",
+  "description": "Paquetes de Hostelum para Claude: consulta tu hotel con los datos de tu panel.",
+  "owner": {
+    "name": "WOWTECH SL"
+  },
+  "plugins": [
+    {
+      "name": "hostelum",
+      "source": "./",
+      "description": "Consulta tu hotel desde Claude con los datos de tu panel de Hostelum."
+    }
+  ]
+}

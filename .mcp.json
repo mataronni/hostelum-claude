@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hostelum": {
+      "type": "http",
+      "url": "https://panel.hostelum.com/mcp"
+    }
+  }
+}
