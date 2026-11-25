@@ -1,7 +1,7 @@
 {
   "name": "hostelum",
   "displayName": "Hostelum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Consulta tu hotel desde Claude: parte del día, cobros pendientes, revisión de precios e informe del mes, con los datos de tu panel de Hostelum. Solo consulta.",
   "author": {
     "name": "WOWTECH SL",

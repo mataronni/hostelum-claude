@@ -24,12 +24,13 @@ Prepara un informe de una página, listo para enviar a la propiedad. Usa solo la
 - **Cifras**: tabla con ocupación, noches vendidas, producción, precio medio por noche (ADR) y RevPAR; columnas para el mes, el mes anterior, el mismo mes del año pasado y las dos diferencias.
 - **Canales**: reparto por canal y qué ha cambiado.
 - **Reservas y cancelaciones**: cifras del mes y comparación.
+- **Facturado**: el importe facturado del mes, si llega en la comparación.
 - **Lectura**: tres o cuatro puntos que expliquen las cifras con los propios datos.
 
 ## Reglas
 
 - Las cifras se muestran tal como llegan; no las recalcules ni las redondees de otra forma.
 - El ritmo de ventas que devuelve la comparación es una comparación, no una predicción: no lo presentes como previsión.
-- Si no hay datos del año anterior, dilo y compara solo con el mes anterior.
+- Si el año anterior sale todo a cero o vacío, es que no hay datos de entonces: dilo en una línea, quita esa columna y compara solo con el mes anterior. No presentes una subida «desde cero» como crecimiento.
 - No inventes causas que los datos no muestren. Si algo no se puede explicar con lo que hay, dilo.
 - Tono sobrio, sin adjetivos de más. Escribe en el idioma en que te hablen; por defecto, en castellano.
